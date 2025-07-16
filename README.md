@@ -132,14 +132,6 @@ train_gnn(graph_data)
 
 ---
 
-## 👩‍💻 About the Author
-
-**Nikita Sinha**  
-🔬 Embedded Software & Algorithms Engineer  
-🎓 MS in Electrical & Computer Engineering, Purdue University  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikita-sinhaa/) • [GitHub](https://github.com/nikita-sinhaa)
-
----
 
 ## 📌 Why This Project?
 
@@ -160,13 +152,11 @@ This project is designed to align with roles like:
 - 🕸️ Node2Vec or GAT for better GNN predictions
 
 ---
+## 👩‍💻 About the Author
 
-## 📬 Contact
-
-Want to collaborate or hire me?  
-📧 Reach me at: [email@example.com]  
-💬 Or drop a message on [LinkedIn](https://www.linkedin.com/in/nikita-sinhaa/)
+**Nikita Sinha**  
+🔬 Embedded Software & Algorithms Engineer  
+🎓 MS in Electrical & Computer Engineering, Purdue University  
+🔗 [LinkedIn](https://www.linkedin.com/in/nikita-sinhaa/) • [GitHub](https://github.com/nikita-sinhaa)
 
 ---
-
-> _"Where data meets decision, and structure meets scale—this is where I thrive."_ – Nikita
